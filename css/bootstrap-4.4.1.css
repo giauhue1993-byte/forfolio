@@ -2549,6 +2549,7 @@ textarea.form-control {
 }
 
 .btn.disabled, .btn:disabled {
+
   opacity: 0.65;
 }
 
@@ -4931,6 +4932,7 @@ input[type="button"].btn-block {
     column-count: 3;
     -webkit-column-gap: 1.25rem;
     -moz-column-gap: 1.25rem;
+
     column-gap: 1.25rem;
     orphans: 1;
     widows: 1;
@@ -6705,6 +6707,7 @@ a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
   background-color: #0062cc !important;
+
 }
 
 .bg-secondary {
